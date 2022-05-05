@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[category] ([id], [name], [product_id]) VALUES (1, N'категория 1', 1)
+INSERT INTO [dbo].[category] ([id], [name], [product_id]) VALUES (2, N'категория 2', 3)
+INSERT INTO [dbo].[category] ([id], [name], [product_id]) VALUES (3, N'категория 3', NULL)
+INSERT INTO [dbo].[category] ([id], [name], [product_id]) VALUES (4, N'категория 4', 4)
+INSERT INTO [dbo].[category] ([id], [name], [product_id]) VALUES (5, N'категория 4', 5)
